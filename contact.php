@@ -172,16 +172,14 @@ if(isset($_POST['name']))
 					</div>
 					<div class="row">
 						<div class='embed-container maps'>
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.289259162295!2d-120.7989351!3d37.5246781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8091042b3386acd7%3A0x3b4a4cedc60363dd!2sMain+St%2C+Denair%2C+CA+95316%2C+Hoa+K%E1%BB%B3!5e0!3m2!1svi!2s!4v1434016649434" width="100%" height="450px" frameborder="0" style="border: 0"></iframe>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8149819.804819924!2d109.6181485!3d4.140634!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc4ceb488b9d6d%3A0x28b3a64c94a0aa1e!2sMinjin!5e0!3m2!1sen!2smy!4v1505537879979" width="100%" height="450px" frameborder="0" style="border:0"></iframe>
 						</div>
 						<div class="col-md-4 box-item">
 							<h3>Contact Info</h3>
-							<span>SED UT PERSPICIATIS UNDE OMNIS ISTE NATUS ERROR SIT VOLUPTATEM ACCUSANTIUM DOLOREMQUE LAUDANTIUM, TOTAM REM APERIAM.</span><br> <br>
-							<p>JL.Kemacetan timur no.23. block.Q3<br>
-								Jakarta-Indonesia</p>
-							   <p>+6221 888 888 90 <br>
-								+6221 888 88891</p>
-							<p>info@yourdomain.com</p>
+							<span>Minjin Confectionary Sdn Bhd<br>
+							Summit USJ & Damen Mall - Malaysia<br></span>
+						   <span>+603-8081 4112</span>
+						<span>minjinconfectionary@gmail.com</span>
 						</div>
 						<div class="col-md-8">
 							<h3>Contact Form</h3>
