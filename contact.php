@@ -228,31 +228,19 @@ if(isset($_POST['name']))
 		<div class="wrap-footer">
 			<div class="container">
 				<div class="row"> 
-					<div class="col-footer col-md-3">
-						<h2 class="footer-title">About Us</h2>
-						<div class="textwidget">Aenean feugiat in ante et blandit. Vestibulum posuere molestie risus, ac interdum magna porta non. Pellentesque rutrum fringilla elementum. Curabitur tincidunt porta lorem vitae accumsan. <br> <br> 
-						Aenean feugiat in ante et blandit. Vestibulum posuere molestie risus, ac interdum magna porta non.</div>
-					</div> 
-					<div class="col-footer col-md-3 widget_recent_entries">
-						<h2 class="footer-title">Recent Posts</h2>
-						<ul>
-							<li><a href="#">MOST VISITED COUNTRIES</a></li>
-							<li><a href="#">5 PLACES THAT MAKE A GREAT HOLIDAY</a></li>
-							<li><a href="#">PEBBLE TIME STEEL IS ON TRACK TO SHIP IN JULY</a></li>
-							<li><a href="#">STARTUP COMPANY&#8217;S CO-FOUNDER TALKS ON HIS NEW PRODUCT</a></li>
-						</ul>
-					</div>
-					<div class="col-footer col-md-3">
-						<h2 class="footer-title">CONTACT</h2>
-						<div class='embed-container maps'>
-							<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8149819.804819924!2d109.6181485!3d4.140634!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc4ceb488b9d6d%3A0x28b3a64c94a0aa1e!2sMinjin!5e0!3m2!1sen!2smy!4v1505537879979" width="100%" height="200px" frameborder="0" style="border:0"></iframe>
+					<div class="wrap-footer">
+						<div class="container">
+							<div class="row"> 
+								<div class="col-footer col-md-3">
+									<h2 class="footer-title">CONTACT</h2>
+									<span>Minjin Confectionary Sdn Bhd<br>
+										Summit USJ & Damen Mall - Malaysia<br></span>
+									   <span>+603-8081 4112</span>
+									<span>minjinconfectionary@gmail.com</span>
+								</div>
+							</div>
 						</div>
-						<span>Minjin Confectionary Sdn Bhd<br>
-							Summit USJ & Damen Mall - Malaysia<br></span>
-						   <span>+603-8081 4112</span>
-						<span>minjinconfectionary@gmail.com</span>
-					</div>
-					
+					</div>	
 				</div>
 			</div>
 		</div>
